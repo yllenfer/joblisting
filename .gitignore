@@ -4,3 +4,7 @@ node_modules/
 job_listings.json
 venv/
 __pycache__/
+function.py
+.venv/
+venv/
+path/

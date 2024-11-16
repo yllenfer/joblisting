@@ -1,0 +1,46 @@
+{
+    "title": "Software Engineer",
+    "description": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+    "category_id": 20350,
+    "employer_id": 107645,
+    "job_type_id": 44116,
+    "confirmation_status": "confirmed",
+    "apply_by": "by_link",
+    "apply_to": "https://www.apple.com/",
+    "min_compensation": 100000,
+    "max_compensation": 120000,
+    "compensation_time_frame": "annually",
+    "compensation_currency": "eur",
+    "remote": true,
+    "location": "US Only",
+    "featured": true,
+    "featured_expires_in_days": 30,
+    "pin_to_top": true,
+    "pin_to_top_expires_in_days": 30,
+    "posted_at": "2020-01-25 15:32:21",
+    "job_expires_in_days": 30,
+    "tags": [
+      "JavaScript",
+      "API",
+      "AWS"
+    ],
+    "custom_fields": {
+      "103": {
+        "name": "Industry",
+        "value": "Information Technology"
+      },
+      "221": {
+        "name": "Head office location",
+        "value": "USA"
+      },
+      "2323": {
+        "name": "Perks",
+        "value": [
+          "Brand new MacBook Pro",
+          "Annual Bonus"
+        ]
+      }
+    }
+  }
+  
+  
